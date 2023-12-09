@@ -16,4 +16,44 @@ In the folder `Data` are movie datasets from:
 * Tn movie budgets
 
 ## Overview 
+In launching a studio we seek to maximize on profit for any new movie we produce.
+That is to say, we are focussed on sales and net profit.
+It is important to understand correlation between profitability and popularity and ratings.
 
+## Business Understanding
+We need to define optimal choices for the various inputs that we control as decision makers.
+The inputs we do control -  Budget, Genre, Staffing, Scheduling, Run length, and more.
+
+**Genre ratings**
+![genre_ratings](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/genre_ratings.png?raw=true)
+
+**Top grossing movies production budgets**
+![production](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/production.png?raw=true)
+
+**Top world wide grossing movies**
+![grossing](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/worldwidegross.png?raw=true)
+
+
+
+# Top Genres based on high Worldwide income gains
+* Action
+* Adventure
+* Animation
+* Sci-Fi
+
+***
+**Recommendation**
+* Would recommend investing in Action, Adventure and Animation genres.This is based on profitability.
+
+**Limitations**
+* The analysis is limited to data provided.
+* To improve on data analysis, need to source more data.
+
+### top-level directory layout
+
+    .
+    ├── data               # provided input files for project
+    ├── .gitignore
+    ├── README.md
+    ├── presentation.pdf        # project presentation PDF
+    ├── student.ipynb           # analysis notebook
