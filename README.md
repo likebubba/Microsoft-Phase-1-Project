@@ -25,13 +25,13 @@ We need to define optimal choices for the various inputs that we control as deci
 The inputs we do control -  Budget, Genre, Staffing, Scheduling, Run length, and more.
 
 **Genre ratings**
-![genre_ratings](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/genre_ratings.png?raw=true)
+![genre_ratings](images/genre_ratings.png?raw=true)
 
 **Top grossing movies production budgets**
-![production](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/production.png?raw=true)
+![production](images/production.png?raw=true)
 
 **Top world wide grossing movies**
-![grossing](https://github.com/likebubba/Microsoft-Phase-1-Project/blob/master/graphs/worldwidegross.png?raw=true)
+![grossing](images/worldwidegross.png?raw=true)
 
 
 
