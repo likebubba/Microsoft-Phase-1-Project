@@ -1,4 +1,4 @@
-# Phase 1 Project Template - Minimum Viable Product (MVP)
+# Microsoft New Movie Studio
 
 ![logo](images/director_shot.jpeg)
 
