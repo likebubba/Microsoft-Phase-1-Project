@@ -25,14 +25,25 @@ We need to define optimal choices for the various inputs that we control as deci
 The inputs we do control -  Budget, Genre, Staffing, Scheduling, Run length, and more.
 
 **Genre ratings**
+Popularity does not always mean profitability
+
 ![genre_ratings](images/genre_ratings.png?raw=true)
 
 **Top grossing movies production budgets**
+Note top grossing movies budget ranges between 2 to 3 billion dollars
 ![production](images/production.png?raw=true)
 
 **Top world wide grossing movies**
+Note the top grossing movies range as shown,
 ![grossing](images/worldwidegross.png?raw=true)
 
+**Top profitable movies**
+![profit](images/budget_gross_profit.png?raw=true)
+
+**Profitable movies genres**
+![avengers](images/avengers.png?raw=true)
+
+![spiderman](images/spiderman.png?raw=true)
 
 
 # Top Genres based on high Worldwide income gains
